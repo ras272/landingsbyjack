@@ -48,7 +48,7 @@ export default function FreelanceLanding() {
     {
       icon: <Code2 className="w-8 h-8" />,
       title: "Landings",
-      description: "Páginas de aterrizaje que convierten visitantes en clientes",
+      description: "Landings que convierten visitantes en clientes",
     },
     {
       icon: <Palette className="w-8 h-8" />,
@@ -62,7 +62,7 @@ export default function FreelanceLanding() {
     },
     {
       icon: <MessageCircle className="w-8 h-8" />,
-      title: "WhatsApp integrations",
+      title: "Integración WhatsApp",
       description: "Conecta directamente con tus clientes mediante WhatsApp",
     },
   ]
